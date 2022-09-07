@@ -25,7 +25,7 @@ Just clone the repo, and then copy `analyzor.py` to where your kernel directory 
 ## Usage <a name = "usage"></a>
 
 This project simply receives the path of the server and clients, and then runs it for a specific amount of time. for example you say run it a 1000 times, and it does it. how convenient! 
-It aslo renames the log files starting from 0 to the number you specified.
+It also renames the log files starting from 0 to the number you specified.
 after the process is over, you can easily peek at the important data about your iteration in `result.log`.
 
 spoiler alert: it contains the reason why a team has won
