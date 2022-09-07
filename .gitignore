@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+Clients
+logs
+maps
+src
+*txt
+*log
+venv
+
+
 # Distribution / packaging
 .idea
 .Python

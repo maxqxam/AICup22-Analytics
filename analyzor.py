@@ -8,6 +8,7 @@ import time
 SERVER_PATH:str = "./src/server.py"
 CLIENT_1_PATH:str = "./Clients/main.py"
 CLIENT_2_PATH:str = "./Clients/main.py"
+SERVER_MAX_RUN_COUNT:int = 100
 
 def panic(error_message:str) -> None: # same as throw
     print("Panic!: ",error_message)
@@ -28,8 +29,10 @@ elif len(sys.argv)==3:
 
     if sys.argv[2].isnumeric():
         num = int(sys.argv[2])
-        if not 10 < num < 1000:
+        if not 10 <= num <= 1000:
             panic("Second argument must be between 10 and 1000")
+        else:
+            SERVER_MAX_RUN_COUNT = num
     else:
         panic("Second argument must be a number!")
 
@@ -49,7 +52,7 @@ LOGS_DIRECTORY_PATH:str = "./logs"
 
 ANALYZE_LOG_PATH:str = "./result.log"
 
-SERVER_MAX_RUN_COUNT:int = 100
+
 server_run_counter:int = 0
 
 checked_logs:list = []
