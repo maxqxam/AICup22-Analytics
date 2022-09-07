@@ -1,0 +1,7600 @@
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 3
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 4
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 5
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 7
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 8
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 9
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 10
+location: (0, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 7
+------------------------------------------------------------
+round: 11
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 12
+location: (0, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 13
+location: (0, 8)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 7
+------------------------------------------------------------
+round: 14
+location: (0, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (0, 7)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 16
+location: (0, 7)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (0, 7)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 2, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (0, 7)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 2, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 19
+location: (0, 7)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 2, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 20
+location: (0, 7)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 2, 1, 0]
+last action: 7
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 8
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 1
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 10
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [2, 1, 1, 0]
+last action: 1
+------------------------------------------------------------
+round: 11
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [2, 1, 1, 0]
+last action: 2
+------------------------------------------------------------
+round: 12
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 13
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 7
+------------------------------------------------------------
+round: 14
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 2
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 7
+------------------------------------------------------------
+round: 18
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 1
+------------------------------------------------------------
+round: 19
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 20
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 3
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 4
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 5
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 6
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 10
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 2
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 13
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 14
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 16
+location: (0, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 9
+------------------------------------------------------------
+round: 17
+location: (0, 9)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 9
+------------------------------------------------------------
+round: 18
+location: (1, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 2, 0]
+last action: 1
+------------------------------------------------------------
+round: 19
+location: (1, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 20
+location: (1, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 11
+------------------------------------------------------------
+round: 3
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 1
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 2
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: 8
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: 9
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: -1
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: 1
+------------------------------------------------------------
+round: 10
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 3, 0]
+last action: -1
+------------------------------------------------------------
+round: 12
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 3, 0]
+last action: 8
+------------------------------------------------------------
+round: 13
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 3, 0]
+last action: 1
+------------------------------------------------------------
+round: 14
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 3, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 3, 0]
+last action: 9
+------------------------------------------------------------
+round: 16
+location: (2, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 3, 0]
+last action: 8
+------------------------------------------------------------
+round: 17
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 18
+location: (2, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 11
+------------------------------------------------------------
+round: 19
+location: (2, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 20
+location: (2, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 11
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 10
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 2
+safe wallet: 0
+list of wallets: [0, 1, 0, 2]
+last action: 1
+------------------------------------------------------------
+round: 8
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 2
+safe wallet: 0
+list of wallets: [0, 1, 0, 2]
+last action: 11
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 2
+safe wallet: 0
+list of wallets: [0, 1, 0, 2]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (1, 10)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 5
+------------------------------------------------------------
+round: 11
+location: (1, 9)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 12
+location: (1, 8)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 4
+------------------------------------------------------------
+round: 13
+location: (1, 8)
+attack ratio: 0.5
+defence level: 2
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 14
+location: (1, 8)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (1, 8)
+attack ratio: 0.5
+defence level: 2
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 16
+location: (1, 8)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (1, 8)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (1, 8)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 19
+location: (1, 8)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 20
+location: (1, 8)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 2
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 14
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 15
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 16
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 18
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 19
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 20
+location: (1, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 7
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 8
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 9
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 10
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 12
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 14
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 15
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 16
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 2
+------------------------------------------------------------
+round: 17
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 18
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 19
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 20
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 7
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 8
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 9
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 10
+------------------------------------------------------------
+round: 10
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 3
+------------------------------------------------------------
+round: 11
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 12
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 13
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 14
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 11
+------------------------------------------------------------
+round: 16
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 9
+------------------------------------------------------------
+round: 18
+location: (0, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 10
+------------------------------------------------------------
+round: 19
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 20
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 3
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 4
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 5
+location: (0, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 3
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 2
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 16
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 17
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 2
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 4
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 5
+location: (0, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 6
+location: (0, 9)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 7
+location: (0, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 3
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 10
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 11
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 12
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 13
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 14
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 15
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 16
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 2
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 9
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 9
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 13
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 1
+------------------------------------------------------------
+round: 14
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 16
+location: (1, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 4
+------------------------------------------------------------
+round: 17
+location: (1, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (1, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 11
+------------------------------------------------------------
+round: 19
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 2
+------------------------------------------------------------
+round: 20
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 3
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 4
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 5
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 3
+------------------------------------------------------------
+round: 7
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 8
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 9
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 10
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 11
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 12
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 14
+location: (0, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 15
+location: (0, 9)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 3
+------------------------------------------------------------
+round: 17
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 18
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 19
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 2
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 1, 0]
+last action: 7
+------------------------------------------------------------
+round: 11
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 4
+------------------------------------------------------------
+round: 12
+location: (0, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 7
+------------------------------------------------------------
+round: 13
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 14
+location: (0, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 7
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 3
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 11
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 11
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 8
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 4
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 5
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: -1
+------------------------------------------------------------
+round: 7
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 3
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 10
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 10
+------------------------------------------------------------
+round: 18
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [2, 1, 1, 1]
+last action: 1
+------------------------------------------------------------
+round: 19
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 11
+------------------------------------------------------------
+round: 20
+location: (1, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 7
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 3
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 4
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 5
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 6
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 7
+location: (2, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 8
+location: (2, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 8
+------------------------------------------------------------
+round: 9
+location: (2, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 10
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (2, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 9
+------------------------------------------------------------
+round: 12
+location: (2, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 13
+location: (2, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 9
+------------------------------------------------------------
+round: 14
+location: (2, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (2, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 9
+------------------------------------------------------------
+round: 16
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 3
+------------------------------------------------------------
+round: 17
+location: (2, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 10
+------------------------------------------------------------
+round: 18
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 19
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 20
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: 2
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 3
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 4
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: 3
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: -1
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: 7
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: 8
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: -1
+------------------------------------------------------------
+round: 10
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: 4
+------------------------------------------------------------
+round: 11
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 12
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 3
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 16
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 17
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 20
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 3
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 5
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 6
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 2
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 7
+------------------------------------------------------------
+round: 13
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 1
+------------------------------------------------------------
+round: 14
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 1, 1]
+last action: 8
+------------------------------------------------------------
+round: 18
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 1, 1]
+last action: 1
+------------------------------------------------------------
+round: 19
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 1, 1]
+last action: 8
+------------------------------------------------------------
+round: 20
+location: (2, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 2, 1, 1]
+last action: 7
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 4
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 5
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 2
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 12
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 2
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 15
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 16
+location: (1, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 17
+location: (1, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 2
+------------------------------------------------------------
+round: 19
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 3
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 16
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 2
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 19
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 4
+------------------------------------------------------------
+round: 20
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 10
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 1, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 2
+safe wallet: 0
+list of wallets: [0, 1, 0, 2]
+last action: 1
+------------------------------------------------------------
+round: 7
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 2
+safe wallet: 0
+list of wallets: [0, 1, 0, 2]
+last action: 11
+------------------------------------------------------------
+round: 8
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 2
+safe wallet: 0
+list of wallets: [0, 1, 0, 2]
+last action: 10
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 2
+safe wallet: 0
+list of wallets: [1, 1, 0, 2]
+last action: 7
+------------------------------------------------------------
+round: 10
+location: (1, 10)
+attack ratio: 0.125
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 5
+------------------------------------------------------------
+round: 11
+location: (1, 10)
+attack ratio: 0.25
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 12
+location: (1, 10)
+attack ratio: 0.5
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 13
+location: (2, 10)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 14
+location: (2, 10)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 15
+location: (2, 10)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 16
+location: (2, 10)
+attack ratio: 0.5
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 17
+location: (2, 10)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (2, 10)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 19
+location: (2, 10)
+attack ratio: 1.0
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 20
+location: (2, 10)
+attack ratio: 0.5
+defence level: 2
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 5
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 4
+------------------------------------------------------------
+round: 6
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 7
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 8
+------------------------------------------------------------
+round: 8
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 4
+------------------------------------------------------------
+round: 9
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 8
+------------------------------------------------------------
+round: 10
+location: (0, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 9
+------------------------------------------------------------
+round: 11
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 3
+------------------------------------------------------------
+round: 12
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 0
+------------------------------------------------------------
+round: 14
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 11
+------------------------------------------------------------
+round: 16
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 4
+------------------------------------------------------------
+round: 18
+location: (0, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 10
+------------------------------------------------------------
+round: 19
+location: (0, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 20
+location: (1, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 1, 1]
+last action: 1
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 8
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 10
+location: (1, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 4
+------------------------------------------------------------
+round: 11
+location: (1, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 12
+location: (1, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 13
+location: (2, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 14
+location: (2, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 4
+------------------------------------------------------------
+round: 15
+location: (2, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 16
+location: (2, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 17
+location: (2, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 18
+location: (2, 8)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 19
+location: (2, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 20
+location: (2, 8)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 6
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 2
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 10
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 12
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 2
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 10
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 17
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 18
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 19
+location: (2, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 20
+location: (2, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 1, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: 4
+------------------------------------------------------------
+round: 3
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 2, 0]
+last action: -1
+------------------------------------------------------------
+round: 4
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 5
+location: (1, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 1
+------------------------------------------------------------
+round: 6
+location: (1, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 7
+location: (1, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 8
+location: (1, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 9
+location: (1, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 10
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 3
+------------------------------------------------------------
+round: 11
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 12
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 13
+location: (1, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 14
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 16
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 17
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: 2
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 0, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 0, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 3
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 4
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 5
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 6
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 2
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 13
+location: (0, 10)
+attack ratio: 0.03125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 14
+location: (0, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 15
+location: (0, 10)
+attack ratio: 0.03125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 16
+location: (0, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (0, 10)
+attack ratio: 0.03125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 18
+location: (0, 10)
+attack ratio: 0.015625
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 19
+location: (0, 10)
+attack ratio: 0.03125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 20
+location: (0, 10)
+attack ratio: 0.015625
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: 9
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [0, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 8
+------------------------------------------------------------
+round: 6
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 7
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 8
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 10
+------------------------------------------------------------
+round: 9
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 11
+------------------------------------------------------------
+round: 10
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: -1
+------------------------------------------------------------
+round: 11
+location: (0, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 7
+------------------------------------------------------------
+round: 12
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 0, 0]
+last action: 0
+------------------------------------------------------------
+round: 13
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 14
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 9
+------------------------------------------------------------
+round: 15
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 16
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 17
+location: (0, 9)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 10
+------------------------------------------------------------
+round: 18
+location: (0, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: -1
+------------------------------------------------------------
+round: 19
+location: (1, 9)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 1, 1, 0]
+last action: 1
+------------------------------------------------------------
+round: 20
+location: (1, 8)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 0
+safe wallet: 0
+list of wallets: [1, 2, 1, 0]
+last action: 4
+------------------------------------------------------------
+round: 1
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 1, 1]
+last action: -1
+------------------------------------------------------------
+round: 2
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 2, 1]
+last action: 9
+------------------------------------------------------------
+round: 3
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: 0
+------------------------------------------------------------
+round: 4
+location: (0, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [0, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 5
+location: (0, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 10
+------------------------------------------------------------
+round: 6
+location: (1, 10)
+attack ratio: 1.0
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 7
+location: (1, 10)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 10
+------------------------------------------------------------
+round: 8
+location: (1, 10)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 9
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 10
+location: (1, 10)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 8
+------------------------------------------------------------
+round: 11
+location: (1, 10)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 12
+location: (1, 9)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 4
+------------------------------------------------------------
+round: 13
+location: (1, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 4
+------------------------------------------------------------
+round: 14
+location: (1, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 7
+------------------------------------------------------------
+round: 15
+location: (1, 8)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 16
+location: (2, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 1
+------------------------------------------------------------
+round: 17
+location: (2, 8)
+attack ratio: 0.5
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: -1
+------------------------------------------------------------
+round: 18
+location: (2, 8)
+attack ratio: 0.25
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 11
+------------------------------------------------------------
+round: 19
+location: (2, 8)
+attack ratio: 0.125
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 9
+------------------------------------------------------------
+round: 20
+location: (2, 8)
+attack ratio: 0.0625
+defence level: 1
+attack level: 1
+wallet: 1
+safe wallet: 0
+list of wallets: [1, 0, 0, 1]
+last action: 10
+------------------------------------------------------------
