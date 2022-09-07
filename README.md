@@ -99,7 +99,7 @@ logs
     └── game.json
 ```
 
-**WARNING : **
+**WARNING**
 
 The `/log` folder gets deleted every time!
 Because the server is as fast as how inflation grows in our respective economy, There's a safety protocol that deletes the `/log` folder 
