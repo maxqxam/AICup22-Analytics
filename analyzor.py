@@ -3,20 +3,59 @@ import os
 import os.path
 import subprocess
 import sys
+import time
 
-LOGS_DIRECTORY_PATH:str = "./logs"
 SERVER_PATH:str = "./src/server.py"
 CLIENT_1_PATH:str = "./Clients/main.py"
 CLIENT_2_PATH:str = "./Clients/main.py"
 
-SERVER_MAX_RUN_COUNT:int = 10
+def panic(error_message:str) -> None: # same as throw
+    print("Panic!: ",error_message)
+    sys.exit(1)
 
-server_run_counter:int = 0;
+
+if len(sys.argv)<=2:
+    panic("Invalid number of arguments \n"+(
+        "arg 1 : server path\narg 2 : server iteration count\narg 3 : first client path (optional)\narg 4 : second "
+        "client path (optional) "
+    ))
+
+elif len(sys.argv)==3:
+    if os.path.exists(sys.argv[1]) and os.path.isfile(sys.argv[1]):
+        SERVER_PATH = sys.argv[1]
+    else:
+        panic("Invalid file path!")
+
+    if sys.argv[2].isnumeric():
+        num = int(sys.argv[2])
+        if not 10 < num < 1000:
+            panic("Second argument must be between 10 and 1000")
+    else:
+        panic("Second argument must be a number!")
+
+elif len(sys.argv)==5:
+    if os.path.exists(sys.argv[3]) and os.path.isfile(sys.argv[3]):
+        CLIENT_1_PATH = sys.argv[3]
+    else:
+        panic("Invalid file path!")
+
+    if os.path.exists(sys.argv[4]) and os.path.isfile(sys.argv[4]):
+        CLIENT_2_PATH = sys.argv[4]
+    else:
+        panic("Invalid file path!")
+
+
+LOGS_DIRECTORY_PATH:str = "./logs"
+
+ANALYZE_LOG_PATH:str = "./result.log"
+
+SERVER_MAX_RUN_COUNT:int = 100
+server_run_counter:int = 0
+
 checked_logs:list = []
 
-def panic(error_message:str) -> None:
-    print("Panic!: ",error_message);
-    sys.exit(1)
+
+result_list:list = []
 
 
 def get_options_input(input_message:str,options:list) -> str:
@@ -31,7 +70,6 @@ def get_options_input(input_message:str,options:list) -> str:
 
 
 def clean() -> int:
-
     if not os.path.exists(LOGS_DIRECTORY_PATH):
         return 0
 
@@ -41,10 +79,53 @@ def clean() -> int:
 
     return subprocess.call("rm -rf "+LOGS_DIRECTORY_PATH , shell=True)
 
+def live_analyze_log_file():
+    if os.path.exists(ANALYZE_LOG_PATH): os.remove(ANALYZE_LOG_PATH)
+    bigString:str = ""
 
-def run_server() -> int:
-    return subprocess.call("python3 "+SERVER_PATH+" -p1 "+CLIENT_1_PATH+" -p2 "+
+    dirty_trick:list=[]
+    team_1_win_count:int = 1
+    team_2_win_count:int = 1
+
+    totalRunTime:float = 0
+    for i in result_list:
+        if i[1][0] not in dirty_trick:
+            dirty_trick.append(i[1][0])
+        else:
+            if len(dirty_trick)==1:
+                team_1_win_count+=1
+            else:
+                if i[1][0]==dirty_trick[0]:
+                    team_1_win_count+=1
+                else:
+                    team_2_win_count+=1
+
+
+        totalRunTime+=i[2]
+        bigString+="server run count : "+str(i[0])+" , "+str(i[1]).center(35) +" run_time:"+str(
+                        round(i[2],2))+"\n"
+
+
+    if len(dirty_trick)==2:
+        bigString+="\n"+("total games count : "+str(team_1_win_count+team_2_win_count)+"\n"
+
+        )+dirty_trick[0]+" win count : "+str(team_1_win_count)+"\n"+dirty_trick[1]+" win count : "+(
+                                str(team_2_win_count))+"\n total run time : "+str(round(totalRunTime,3))
+
+
+
+
+    o = open(ANALYZE_LOG_PATH,'a+')
+    o.write(bigString)
+
+
+
+def run_server() -> tuple[int,float]:
+    t1:float = time.time()
+    result_code = subprocess.call("python3 "+SERVER_PATH+" -p1 "+CLIENT_1_PATH+" -p2 "+
                            CLIENT_2_PATH , shell=True)
+    t2:float = time.time()
+    return result_code,t2-t1
 
 def get_latest_log_path() -> tuple[str,str]:
     log_list = os.listdir(LOGS_DIRECTORY_PATH)
@@ -66,11 +147,25 @@ def rename_log(log_path:str) -> None:
 
 
 def run_server_loop() -> None:
+    server_run_time:float = 0
     for i in range(0,SERVER_MAX_RUN_COUNT):
-        run_server()
+
+        server_run_time = run_server()[1]
         log_path = get_latest_log_path()
-        print("server run count : "+str(i)+" , ",get_brief_report(log_path[1]))
+        brief_report = get_brief_report(log_path[1])
+        report_result:str = "server run count : "+str(i)+" , "+str(brief_report).center(35) +" run_time:"+str(
+                        round(server_run_time,2))
+        print(report_result)
+        result_list.append(
+            (
+            i,
+            brief_report,
+            server_run_time
+            )
+        )
+
         rename_log(log_path[0])
+        live_analyze_log_file()
 
 
 def get_brief_report(target:str) -> tuple[str,str]:
@@ -91,6 +186,8 @@ def get_brief_report(target:str) -> tuple[str,str]:
 def main() -> None:
     clean()
     run_server_loop()
+    print("\nServer run iteration is over, check the log file at : \""+ANALYZE_LOG_PATH+"\"")
+
 
 
 if __name__=="__main__":
