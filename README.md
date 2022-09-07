@@ -73,6 +73,39 @@ Team 1 win count : 4
  total run time : 1.796    
 ```
 
+I said it renames the logs, thats the structure of logs folder after the script is done doing what it does:
+```
+└─$ tree logs       
+logs
+├── 0
+│   └── game.json
+├── 1
+│   └── game.json
+├── 2
+│   └── game.json
+├── 3
+│   └── game.json
+├── 4
+│   └── game.json
+├── 5
+│   └── game.json
+├── 6
+│   └── game.json
+├── 7
+│   └── game.json
+├── 8
+│   └── game.json
+└── 9
+    └── game.json
+```
+
+**WARNING** 
+The `/log` folder gets deleted every time!
+Because the server is as fast as how inflation grows in our respective economy, There's a safety protocol that deletes the `/log` folder 
+every time you try to run the analyzor, However, if you choose not to delete it , the interpreter panics.
+What I mean by this if there are 1000 log files in your directory it will take up a space up to 1GB, which is probabely what you don't like.
+
+
 That's pretty much it, make sure to use it wisely :)
 
 
