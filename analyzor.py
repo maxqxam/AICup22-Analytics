@@ -21,7 +21,7 @@ if len(sys.argv)<=2:
         "client path (optional) "
     ))
 
-elif len(sys.argv)==3:
+elif len(sys.argv)>2:
     if os.path.exists(sys.argv[1]) and os.path.isfile(sys.argv[1]):
         SERVER_PATH = sys.argv[1]
     else:
@@ -36,7 +36,7 @@ elif len(sys.argv)==3:
     else:
         panic("Second argument must be a number!")
 
-elif len(sys.argv)==5:
+if len(sys.argv)==5:
     if os.path.exists(sys.argv[3]) and os.path.isfile(sys.argv[3]):
         CLIENT_1_PATH = sys.argv[3]
     else:
