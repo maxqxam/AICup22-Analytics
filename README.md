@@ -20,7 +20,7 @@ Only what is required by the server itself is needed to run this script
 
 ### Installing
 
-Just clone the repo, and then copy `analyzor.py` to where your kernel directory is, and then simply run it
+Just clone the repo, and then copy `analyzer.py` to where your kernel directory is, and then simply run it
 
 ## Usage <a name = "usage"></a>
 
@@ -34,7 +34,7 @@ spoiler alert: it contains the reason why a team has won
 
 If you run the script blindedly you'll see the Python interpreter panics like this:
 ```
-└─$ python3 analyzor.py 
+└─$ python3 analyzer.py 
 Panic!:  Invalid number of arguments 
 arg 1 : server path
 arg 2 : server iteration count
@@ -44,7 +44,7 @@ arg 4 : second client path (optional)
 
 So you'll need to at least tell the script where the server is and how many times you want to run it:
 ```
-└─$ python3 analyzor.py ./src/server.py 10
+└─$ python3 analyzer.py ./src/server.py 10
 Am I allowed to delete the log folder at "./logs" ['y', 'n'] : y
 server run count : 0 ,         ('Team 2', 'Random')        run_time:0.18
 server run count : 1 ,  ('Team 2', 'More coins in wallet') run_time:0.18
@@ -103,7 +103,7 @@ logs
 
 The `/log` folder gets deleted every time!
 Because the server is as fast as how inflation grows in our respective economy, There's a safety protocol that deletes the `/log` folder 
-every time you try to run the analyzor, However, if you choose not to delete it , the interpreter panics.
+every time you try to run the analyzer, However, if you choose not to delete it , the interpreter panics.
 What I mean by this if there are 1000 log files in your directory it will take up a space up to 1GB, which is probabely what you don't like.
 
 
