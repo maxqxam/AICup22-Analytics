@@ -10,6 +10,7 @@ import time
 SERVER_PATH:str = "./src/server.py"
 CLIENT_1_PATH:str = "./Clients/main.py"
 CLIENT_2_PATH:str = "./Clients/main.py"
+CLIENT_LOG_PATH = "./Clients/logs"
 SERVER_MAX_RUN_COUNT:int = 100
 
 def panic(error_message:str) -> None: # same as throw
@@ -134,6 +135,12 @@ def live_analyze_log_file():
 def run_server() -> tuple[int,float]:
     t1:float = time.time()
 
+    try:
+        shutil.rmtree(pathlib.Path(CLIENT_LOG_PATH).absolute())
+    except OSError as e:
+        0
+
+    # This is still error-prone, we don't know how the user runs python scripts
 
     result_code = subprocess.call("python3 "+SERVER_PATH+" -p1 "+CLIENT_1_PATH+" -p2 "+
                            CLIENT_2_PATH , shell=True)
